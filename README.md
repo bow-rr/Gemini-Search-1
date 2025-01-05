@@ -2,7 +2,7 @@
 
 A Perplexity-style search engine powered by Google's Gemini 2.0 Flash model with grounding through Google Search. Get AI-powered answers to your questions with real-time web sources and citations.
 
-Created by [@ammaar](https://x.com/ammaar)
+Created by [@Flyover9898](https://x.com/flyover9898)
 
 ![Kapture 2025-01-04 at 14 35 14](https://github.com/user-attachments/assets/2302898e-03ae-40a6-a16c-301d6b91c5af)
 
@@ -36,7 +36,7 @@ Created by [@ammaar](https://x.com/ammaar)
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ammaarreshi/Gemini-Search.git
+   git clone https://github.com/bow-rr/Gemini-Search.git
    cd Gemini-Search
    ```
 
